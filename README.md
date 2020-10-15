@@ -1,5 +1,5 @@
 # CyberBank
-Bank system using Windows Form
+Bank system using Windows Form with C#
 
 # Features:
 1. Account data are saved through local storage backup
