@@ -1,8 +1,8 @@
 # CyberBank
 Bank system using Windows Form
 
-#Features:
-Account data are saved through local storage backup
-Easy to navigate GUI
-Transaction history
-Synchronized accounts for transaction
+# Features:
+1. Account data are saved through local storage backup
+2. Easy to navigate GUI
+3. Transaction history
+4. Synchronized accounts for transaction
